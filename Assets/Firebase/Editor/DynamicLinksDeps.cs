@@ -97,7 +97,8 @@ public class FirebaseDynamicLinksDeps : AssetPostprocessor
                 },
                 { "repositories",
                     new string[] {
-                        "Assets/Firebase/m2repository"
+                        "Assets/Modules/umm@firebase_core/Firebase/m2repository",
+                        "Assets/Modules/umm@firebase_dynamiclinks/Firebase/m2repository"
                     }
                 }
             });
