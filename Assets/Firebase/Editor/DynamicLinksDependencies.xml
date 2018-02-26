@@ -5,7 +5,7 @@ FirebaseDynamicLinks iOS and Android Dependencies.
 
 <dependencies>
   <iosPods>
-    <iosPod name="Firebase/DynamicLinks" version="4.8.2" minTargetSdk="7.0">
+    <iosPod name="Firebase/DynamicLinks" version="4.9.0" minTargetSdk="7.0">
     </iosPod>
   </iosPods>
   <androidPackages>
@@ -20,7 +20,7 @@ FirebaseDynamicLinks iOS and Android Dependencies.
         <androidSdkPackageId>extra-android-m2repository</androidSdkPackageId>
       </androidSdkPackageIds>
     </androidPackage>
-    <androidPackage spec="com.google.firebase:firebase-dynamic-links-unity:4.4.2">
+    <androidPackage spec="com.google.firebase:firebase-dynamic-links-unity:4.4.3">
       <repositories>
         <repository>Assets/Modules/umm@firebase_dynamiclinks/Firebase/m2repository</repository>
       </repositories>
