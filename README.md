@@ -1,17 +1,17 @@
 # Firebase DynamicLinks
 
-* Firebase Unity SDK の DynamicLinks 用モジュールです。
-* 利用している SDK のバージョンは v4.4.2 になります。
+* Firebase Unity SDK / DynamicLinks
+* SDK version: 4.4.3
 
 ## Install
 
 ```shell
-npm install github:umm-projects/firebase_dynamiclinks
+yarn add "umm-projects/firebase_dynamiclinks#^1.0.0"
 ```
 
 ## Requirement
 
-* プロジェクトの Scripting Runtime Version に応じてモジュールの追加インストールが必須になります。
+* You must install additional module as a function of the `Scripting Runtime Version` setting of your project.
 
 | Scripting Runtime Version | Module |
 | --- | --- |
